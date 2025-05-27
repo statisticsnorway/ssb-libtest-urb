@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ssb-libtest-urb"
-version = "0.0.0"
+version = "0.0.1"
 description = "SSB Libtest Urb"
 authors = ["Urban Olsson <urb@ssb.no>"]
 license = "MIT"
